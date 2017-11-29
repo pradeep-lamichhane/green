@@ -1,2 +1,2 @@
 # green
-first project artificial-intellegience
+first project on artificial-intellegience
